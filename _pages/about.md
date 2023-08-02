@@ -14,9 +14,9 @@ Junjielong Xu is a PhD student of Computer Science in the [School of Data Scienc
 
 # Publications
 
-- (ESEC/FSE'23) Hue: A User-Adaptive Parser for Hybrid Logs (CCF-A, First Author)
+- (ESEC/FSE'23) "Hue: A User-Adaptive Parser for Hybrid Logs" (CCF-A, First Author)
 
 # Awards
 
-- (CUMCM'20) 1st Prize
-- (MCM'19) Finalist
+- (CUMCM'20) "Modeling of Reflow Soldering Oven Temperature Control" (1st Prize)
+- (MCM'19) "Modeling of Ocean Wave Erosion to Sand Castles" (Finalist)
