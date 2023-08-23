@@ -16,6 +16,7 @@ His research interest spans Software Engineering, Programming Language, and Natu
 
 # Publications
 
+- (ICSE'24) "UniLog: Automatic Logging via LLM and In-Context Learning (CCF-A, First Author)"
 - (ESEC/FSE'23) "Hue: A User-Adaptive Parser for Hybrid Logs" (CCF-A, First Author)
 
 # Awards
