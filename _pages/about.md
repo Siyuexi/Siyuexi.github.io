@@ -14,13 +14,8 @@ Junjielong Xu is a Ph.D. student of Computer Science in the [School of Data Scie
 
 His research interest spans Software Engineering, Programming Language, and Natural Language Processing. He currently focus on Log Analysis and other Large Language Model (LLM) related tasks in Software Engineering.
 
-# Publications
+# News
 
-- (ICSE'24) "DivLog: Log Parsing with Prompt Enhanced In-Context Learning" (CCF-A, First Author)
-- (ICSE'24) "UniLog: Automatic Logging via LLM and In-Context Learning" (CCF-A, First Author)
-- (ESEC/FSE'23) "Hue: A User-Adaptive Parser for Hybrid Logs" (CCF-A, First Author)
-
-# Awards
-
-- (CUMCM'20) "Modeling of Reflow Soldering Oven Temperature Control" (1st Prize)
-- (MCM'19) "Modeling of Ocean Wave Erosion to Sand Castles" (Finalist)
+- [2023/10/10] Our paper "*DivLog: Log Parsing with Prompt Enhanced In-Context Learning*" was accepted by **ICSE'24 Research Track**.
+- [2023/08/24] Our paper "*UniLog: Automatic Logging via LLM and In-Context Learning*" was accepted by **ICSE'24 Research Track**.
+- [2023/07/28] Our paper "*Hue: A User-Adaptive Parser for Hybrid Logs*" was accepted by **ESEC/FSE'23 Research Track**.
