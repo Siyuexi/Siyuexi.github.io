@@ -4,8 +4,9 @@ title: "Awards"
 ---
 
 ## Competition
-- (CUMCM'20) "Modeling of Reflow Soldering Oven Temperature Control" (1st Prize)
-- (MCM'19) "Modeling of Ocean Wave Erosion to Sand Castles" (Finalist, no teammates)
+- **3rd Prize** *AIOps'23: CCF International AIOps Challenge*
+- **1st Prize** *CUMCM'20: China Undergraduate Mathematical Contest in Modeling*
+- **Finalist (no teammates)** *MCM'20: Mathematical Contest In Modeling*
 
 ## Scholarship
 - None.
