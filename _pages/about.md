@@ -16,7 +16,7 @@ His research interest spans Software Engineering, Programming Language, and Natu
 
 # News
 
-- [2023/12/16] Our LLM-based AIOps system earned [3rd Prize](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the **[CCF AIOps Challenge Competition](http://aiops-challenge.com/)**. 
-- [2023/10/10] Our paper "*[DivLog: Log Parsing with Prompt Enhanced In-Context Learning](https://dl.acm.org/doi/abs/10.1145/3597503.3639155)*" was accepted by **[ICSE'24 Research Track](https://conf.researchr.org/track/icse-2024/icse-2024-research-track)**.
-- [2023/08/24] Our paper "*[UniLog: Automatic Logging via LLM and In-Context Learning](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)*" was accepted by **[ICSE'24 Research Track](https://conf.researchr.org/track/icse-2024/icse-2024-research-track)**.
-- [2023/07/28] Our paper "*[Hue: A User-Adaptive Parser for Hybrid Logs](https://dl.acm.org/doi/abs/10.1145/3611643.3616260)*" was accepted by **[ESEC/FSE'23 Research Track](https://2023.esec-fse.org/track/fse-2023-research-papers)**.
+- [2023/12/16] Our LLM-based AIOps system earned [3rd Prize](https://mp.weixin.qq.com/s/KctBL78OgxSOzPXoeGfe5w) in the **CCF AIOps Challenge Competition**. 
+- [2023/10/10] Our paper "*[DivLog: Log Parsing with Prompt Enhanced In-Context Learning](https://dl.acm.org/doi/abs/10.1145/3597503.3639155)*" was accepted by **ICSE'24 Research Track**.
+- [2023/08/24] Our paper "*[UniLog: Automatic Logging via LLM and In-Context Learning](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)*" was accepted by **ICSE'24 Research Track**.
+- [2023/07/28] Our paper "*[Hue: A User-Adaptive Parser for Hybrid Logs](https://dl.acm.org/doi/abs/10.1145/3611643.3616260)*" was accepted by **ESEC/FSE'23 Research Track**.
