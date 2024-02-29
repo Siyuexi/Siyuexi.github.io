@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-Junjielong Xu ("徐俊杰龙" in Chinese) is a Ph.D. student of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHKSZ). His supervisor is [Prof. Pinjia He](https://pinjiahe.github.io). Before joining CUHKSZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
+Junjielong Xu ("徐俊杰龙" in Chinese) is a Ph.D. candidate of Computer Science in the [School of Data Science](https://sds.cuhk.edu.cn/en) at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHKSZ). His supervisor is [Prof. Pinjia He](https://pinjiahe.github.io). Before joining CUHKSZ, he received his BEng degree from the [School of Electronic Information and Communication](https://eic.hust.edu.cn/) at [Huazhong University of Science and Technology](https://hust.edu.cn/) (HUST) in 2022.
 
-His research interest spans Software Engineering, Programming Language, and Natural Language Processing. He currently focus on Log Analysis, Debugging, and other AI4DevOps topics. His work is published in the top-tier venues.
+His research interest is Large Language Model driven Software Engineering. He currently focus on Log Analysis, Debugging, and other AI4DevOps topics. His work is published in the top-tier venues.
 
 # News
 
