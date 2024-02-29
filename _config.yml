@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junjielong Xu"
 title_separator          : "-"
 name                     : &name "Junjielong Xu"
-description              : &description "Ph.D. student at CUHKSSZ"
+description              : &description "Ph.D. candidate at CUHKSSZ"
 url                      : https://siyuexi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Siyuexi.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Junjielong Xu"
   avatar           : "myviewhd.jpg"
-  bio              : "PhD candidate at CUHKSZ"
+  bio              : "Ph.D. candidate at CUHKSZ"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
