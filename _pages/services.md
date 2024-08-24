@@ -3,7 +3,8 @@ permalink: /services/
 title: "Services"
 ---
 ## Reviewer
-- ACM Transactions on Software Engineering and Methodology (TOSEM) (CCF-A)
+- IEEE Transactions on Software Engineering (TSE)
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
 
 ## Shadow Program Committee
-- IEEE/ACM International Conference on Software Engineering (ICSE) (CCF-A)
+- IEEE/ACM International Conference on Software Engineering (ICSE)
