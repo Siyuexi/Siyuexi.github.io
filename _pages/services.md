@@ -10,4 +10,5 @@ title: "Services"
 - IEEE/ACM International Conference on Software Engineering (ICSE'25)
 
 ## Artifact Evaluation Committee
+- IEEE/ACM International Conference on Software Engineering (ICSE'25)
 - International Symposium on Software Reliability Engineering (ISSRE'24)
