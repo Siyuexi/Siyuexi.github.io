@@ -18,7 +18,7 @@ His research focuses on LLM-based DevOps automation to enhance software reliabil
 
 # News
 
-- [2024/10/31] One research paper was accepted by **ICSE'25**. Preprint: [[arXiv]](https://arxiv.org/abs/2404.08877).
+- [2024/10/31] One first-authored paper was accepted by **ICSE'25**. Preprint: [[arXiv]](https://arxiv.org/abs/2404.08877).
 - [2024/08/24] I served as a reviewer for **TSE**.
 - [2024/07/24] I served as a shadow PC for **ICSE'25**.
 - [2024/07/22] I have successfully passed my doctoral proposal defense.
