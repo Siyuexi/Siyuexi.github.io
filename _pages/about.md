@@ -18,8 +18,8 @@ His research focuses on LLM-based DevOps automation to enhance software reliabil
 
 # News
 
-- [2025/01/22] One first-authored paper was accepted by **ICLR'25**.
-- [2024/10/31] One first-authored paper was accepted by **ICSE'25**. Preprint: [[arXiv]](https://arxiv.org/abs/2404.08877).
+- [2025/01/22] One first-authored paper was accepted by **ICLR'25**. [[OpenReview](https://openreview.net/forum?id=M4qNIzQYpd)]
+- [2024/10/31] One first-authored paper was accepted by **ICSE'25**. [[arXiv](https://arxiv.org/abs/2404.08877),[GitHub](https://github.com/CUHK-Shenzhen-SE/D4C)]
 - [2024/08/24] I served as a reviewer for **TSE**.
 - [2024/07/24] I served as a shadow PC for **ICSE'25**.
 - [2024/07/22] I have successfully passed my doctoral proposal defense.
