@@ -18,6 +18,7 @@ His research focuses on LLM-based DevOps automation to enhance software reliabil
 
 # News
 
+- [2025/01/27] I served as a PC for **FSE'25**, industrial track.
 - [2025/01/22] One first-authored paper was accepted by **ICLR'25**. [[OpenReview](https://openreview.net/forum?id=M4qNIzQYpd)]
 - [2024/10/31] One first-authored paper was accepted by **ICSE'25**. [[arXiv](https://arxiv.org/abs/2404.08877),[GitHub](https://github.com/CUHK-Shenzhen-SE/D4C)]
 - [2024/08/24] I served as a reviewer for **TSE**.
